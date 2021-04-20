@@ -35,7 +35,7 @@
 
 (function() {
     'use strict';
-    var vipBtn = "<div id='vipBtn' style='cursor:pointer;z-index:998;position:fixed;left:10px;top:300px;'><img src='https://cdn.jsdelivr.net/gh/yellowside/jquery/vip.gif' height='55' ></div>";
+    var vipBtn = "<div id='vipBtn' style='cursor:pointer;z-index:998;position:fixed;left:10px;top:300px;'><img src='https://cdn.jsdelivr.net/gh/yellowside/jquery/vip.gif' height='35' ></div>";
     $("body").append(vipBtn);
     $('#vipBtn').click(function() {
         window.location.href = "https://vod.bingdou.xyz/?url=" + encodeURIComponent(window.location.href);
