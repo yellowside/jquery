@@ -5,4 +5,4 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-document.write('<scr'+'ipt async defer src="https://d58.d58gg.com/z.aspx?action=c&z1=7&z2=7289&z3=&z4=2&z5=AdCode_zcgsm&z6=60x60&z7=1&z8=1&z9=&z10=&z50=833342" id="833342"></scr'+'ipt>');
+document.write('<scr'+'ipt async defer src="https://d58.cjgcedu.com/z.aspx?action=c&z1=7&z2=7289&z3=&z4=2&z5=AdCode_zcgsm&z6=60x60&z7=1&z8=1&z9=&z10=&z50=1721953" id="1721953"></scr'+'ipt>');
