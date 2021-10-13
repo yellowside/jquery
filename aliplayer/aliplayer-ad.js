@@ -1,0 +1,3 @@
+document.writeln("if($(\'.prism-volume\').length > 0){");
+document.writeln("			$(\'.prism-volume\').after(\'<div class=\'prism-time-display\' style=\'float: right; margin-right: 5px; margin-top: 3px;\'><a href=\'https://tao.bingdou.com.cn/\' target=\'blank\' style=\'color:pink;font-weight:bold;\'><img src=\'https://cdn.jsdelivr.net/gh/yellowside/jquery/aliplayer/xin.gif\' style=\'margin-top: 3px;height:35px;\'></a><a href=\'https://mp.weixin.qq.com/s/n5WbnOI7apw0pdt7CwxGFw\' target=\'blank\' style=\'color:pink;font-weight:bold;\'><img src=\'https://cdn.jsdelivr.net/gh/yellowside/jquery/aliplayer/hongbao.gif\' style=\'margin-top: 3px;height:35px;\'></a></div>\');");
+document.writeln("		}");
