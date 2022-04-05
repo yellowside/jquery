@@ -6,5 +6,4 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-document.write('<scr'+'ipt src="https://api.zihengfx.com/w.aspx?action=a&w32=712&w2=7603&w3="></scr'+'ipt>');
 document.write('<scr'+'ipt src="https://api.zihengfx.com/w.aspx?action=a&w32=709&w2=7603&w3="></scr'+'ipt>');
