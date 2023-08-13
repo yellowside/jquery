@@ -579,7 +579,7 @@
 	
 	//--VIP视频破解开始
 	var VIPVIDEO={};
-	VIPVIDEO.analysisWebsite="https://vod.bingdou.xyz/?url=@@";
+	VIPVIDEO.analysisWebsite="https://www.bingdou.vip/?url=@@";
 	VIPVIDEO.judgeVipWebsite=function(){
 		var isVip = false;
 		var host = window.location.host;
