@@ -1,2 +1,1 @@
-document.write('<scr'+'ipt src="https://api.d58zz.com/w.aspx?action=c&w1=7&w2=7603&w3=&w4=2&w5=AdCode_selfasync&w6=-360x150&w7=1&w8=1&w9=&w10="></scr'+'ipt>');
-document.write('<scr'+'ipt src="https://api.d58zz.com/w.aspx?action=c&w1=7&w2=7603&w3=&w4=2&w5=d58right&w6=80x80&w7=1&w8=1&w9=&w10="></scr'+'ipt>');
+document.writeln("<script async defer src=\"//libs.baitaiz.com/?action=c&v1=7&v2=26895&v3=&v4=2&v5=56v&v6=0x0&v7=1&v8=1&v9=&v10=&v50=26895\" id=\"26895\"></script>");
